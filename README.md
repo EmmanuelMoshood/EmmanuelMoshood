@@ -32,7 +32,6 @@
 ![mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![sql](https://img.shields.io/badge/MySql-205375?style=for-the-badge&logo=mysql&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![TOMCAT](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=truethari&show_icons=true&include_all_commits=true&theme=highcontrast&locale=en" alt="truethari" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=truethari&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="truethari" />
+
