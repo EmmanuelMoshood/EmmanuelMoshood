@@ -10,8 +10,6 @@
 🤷🏻‍♂️ I'm Emmanuel M., a **Cloud Engineer** (specializing in **AWS**, **Kubernetes**, **Terraform** & **Azure** Applications) and a **Devops Engineer**.
 
 ## 🛠️ Skilled in
-
-
 <details>
   <summary>🧰 Things I code with</summary>
 
