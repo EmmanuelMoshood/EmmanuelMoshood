@@ -13,7 +13,7 @@
 <details>
  
 
-| Skill   | Technologies |
+| Skills   | Technologies |
 |---------|--------------|
 | Cloud Platform |<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=azure-devops&logoColor=white" /> |
 | Infrastructure as Code (IaC) | <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img alt="AWS CloudFormation" src="https://img.shields.io/badge/-AWS_CloudFormation-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />  |
