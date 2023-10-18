@@ -7,7 +7,7 @@
 
 ##  About Me
 
-I'm Emmanuel M., a **Cloud Engineer** (specializing in **AWS**, **Kubernetes**, **Terraform** & **Azure** Applications) and a **Devops Engineer**.
+I'm Emmanuel Mayowa M. a **Cloud Engineer** (specializing in **AWS**, **Terraform** & **Azure** Applications) and a **Devops Engineer** with diverse IT background which includes practical experience in Cloud Native Technologies, Infrastructure as Code, Continuous Integration/Continuous Delivery pipelines, Microservice architecture, Containerization and Orchestration with Kubernetes as well as monitoring critical applications using DevOps/SRE best practices.
 
 ## 🛠️ Skills
 
