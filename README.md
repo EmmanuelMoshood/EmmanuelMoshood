@@ -3,11 +3,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Emmanuel, it is nice to meet you.</h1>
 <h3 align="center">AWS || Terraform || Kubernetes || Jenkins || Python</h3>
 
-<a href="https://github.com/truethari"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=blue" alt=""/></a>
+<a href="https://github.com/EmmanuelMoshood"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=blue" alt=""/></a>
 
 ##  About Me
 
 I'm Emmanuel Mayowa M. a **Cloud Engineer** (specializing in **NodeJs** & **Java** Applications) and a **DevOps Engineer** with a web development background which includes practical experience in Cloud Native Technologies, Infrastructure as Code, Continuous Integration/Continuous Delivery pipelines, Microservice architecture, Containerization and Orchestration with Kubernetes as well as monitoring critical applications using DevOps/SRE best practices.
+<a href="https://portfolio.emmanuelmoshood.com/">Portfolio</a>
 
 ## 🛠️ Skills
 
