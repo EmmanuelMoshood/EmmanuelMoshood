@@ -7,7 +7,7 @@
 
 ##  About Me
 
-I'm Emmanuel M. Moshood a **Cloud Engineer** (specializing in **NodeJs** & **Java** Applications) and a **DevOps Engineer** with a web development background which includes practical experience in Cloud Native Technologies, Infrastructure as Code, Continuous Integration/Continuous Delivery pipelines, Microservice architecture, Containerization and Orchestration with Kubernetes as well as monitoring critical applications using DevOps/SRE best practices.
+I'm Emmanuel M. Moshood a **Cloud Engineer** and a **DevOps Engineer** experienced in Cloud Native Technologies, Infrastructure as Code, Continuous Integration/Continuous Delivery, Container  Orchestration with Kubernetes as well as monitoring critical applications using DevOps/SRE best practices.
 <a href="https://portfolio.emmanuelmoshood.com/">Portfolio</a>
 
 ## 🛠️ Skills
